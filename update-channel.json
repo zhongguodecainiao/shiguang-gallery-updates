@@ -1,10 +1,10 @@
 {
   "app": "拾光图库",
-  "version": "1.0.0",
-  "display_version": "v 1.0.0",
+  "version": "1.0.1",
+  "display_version": "v 1.0.1",
   "published_at": "2026-09-26",
-  "summary": "拾光图库 1.0.0 已发布，新增联网更新通道。",
-  "download_url": "https://github.com/zhongguodecainiao/shiguang-gallery-updates/releases/latest/download/-1.0.0-Windows-x64-Setup.exe",
-  "sha256": "c36c6bfd171c39c253e3c8bd941008ebad1bc8e93b2441b343b45c3dcb496dab",
+  "summary": "拾光图库 1.0.1 更新通道测试版。",
+  "download_url": "https://github.com/zhongguodecainiao/shiguang-gallery-updates/releases/latest/download/-1.0.1-Windows-x64-Setup.exe",
+  "sha256": "322ff742fb79e0e603bb9944a32654617e757f9960189d163dc3502aa4e8f938",
   "mandatory": false
 }
