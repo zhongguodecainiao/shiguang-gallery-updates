@@ -1,10 +1,10 @@
 {
   "app": "拾光图库",
-  "version": "1.0.4",
-  "display_version": "v 1.0.4",
+  "version": "1.0.5",
+  "display_version": "v 1.0.5",
   "published_at": "2026-09-26",
-  "summary": "拾光图库 1.0.4：修复 Windows PowerShell 5.1 无法读取更新安装脚本的问题。",
-  "download_url": "https://github.com/zhongguodecainiao/shiguang-gallery-updates/releases/download/v1.0.4/-1.0.4-Windows-x64-Setup.exe",
-  "sha256": "d680ae8efee9817748d233dc4b70b06a20450bdd637fa1ee26016c5361201018",
+  "summary": "拾光图库 1.0.5：修复 Windows PowerShell 5.1 无法读取更新安装脚本的问题。",
+  "download_url": "https://github.com/zhongguodecainiao/shiguang-gallery-updates/releases/download/v1.0.5/-1.0.5-Windows-x64-Setup.exe",
+  "sha256": "2b42a310b471337dbec3ad49ec9927c5d7eb22a400a5c5988c8e405012d4f748",
   "mandatory": false
 }
